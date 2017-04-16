@@ -1,1 +1,1 @@
-"# XPTraining-battle" 
+# XPTraining-battle
